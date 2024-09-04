@@ -33,11 +33,7 @@ This project focuses on analyzing Adidas sales data to identify key insights rel
    ```bash
    git clone https://github.com/herurmdn7/Adidas-Sales-Analysis.git
    ```
-2. Install the necessary packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ensure Python (version >=3.7) is installed.
+2. Ensure Python (version >=3.7) is installed.
 
 ---
 
